@@ -1,0 +1,8 @@
+dm-sonnet==2.0.0
+jupyter-http-over-ws==0.0.8
+matplotlib==3.4.3
+notebook==6.4.5
+numpy==1.21.4
+scipy==1.7.2
+tensorflow==2.7.0
+tensorflow-probability==0.14.1
